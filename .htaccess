@@ -1,0 +1,3 @@
+AddDefaultCharset utf-8
+php_flag magic_quotes_gpc Off
+ErrorDocument 404 /int-mag/page404.html
